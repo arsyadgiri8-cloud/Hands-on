@@ -1,4 +1,4 @@
 console.log("Hello World!");
 
-CONST NAME = 'Arsyad';
+const NAME = 'Arsyad';
 console.log(NAME);
